@@ -3259,7 +3259,7 @@
   border-width:0px;
   position:absolute;
   left:231px;
-  top:643px;
+  top:589px;
   width:62px;
   height:16px;
 }
@@ -3275,7 +3275,7 @@
   border-width:0px;
   position:absolute;
   left:322px;
-  top:636px;
+  top:582px;
   width:461px;
   height:35px;
 }
@@ -3313,7 +3313,7 @@
   border-width:0px;
   position:absolute;
   left:231px;
-  top:527px;
+  top:473px;
   width:84px;
   height:22px;
   font-size:18px;
@@ -3345,7 +3345,7 @@
   border-width:0px;
   position:absolute;
   left:231px;
-  top:573px;
+  top:519px;
   width:62px;
   height:16px;
 }
@@ -3376,7 +3376,7 @@
   border-width:0px;
   position:absolute;
   left:231px;
-  top:697px;
+  top:643px;
   width:57px;
   height:16px;
 }
@@ -3392,7 +3392,7 @@
   border-width:0px;
   position:absolute;
   left:322px;
-  top:690px;
+  top:636px;
   width:461px;
   height:35px;
 }
@@ -3438,7 +3438,7 @@
   border-width:0px;
   position:absolute;
   left:322px;
-  top:566px;
+  top:512px;
   width:461px;
   height:35px;
 }
@@ -3475,7 +3475,7 @@
   border-width:0px;
   position:absolute;
   left:459px;
-  top:274px;
+  top:220px;
   width:292px;
   height:16px;
 }
@@ -3506,7 +3506,7 @@
   border-width:0px;
   position:absolute;
   left:231px;
-  top:274px;
+  top:220px;
   width:62px;
   height:16px;
 }
@@ -3540,7 +3540,7 @@
   border-width:0px;
   position:absolute;
   left:322px;
-  top:265px;
+  top:211px;
   width:120px;
   height:35px;
 }
@@ -3571,7 +3571,7 @@
   border-width:0px;
   position:absolute;
   left:231px;
-  top:400px;
+  top:346px;
   width:57px;
   height:16px;
 }
@@ -3595,7 +3595,7 @@
   border-width:0px;
   position:absolute;
   left:322px;
-  top:323px;
+  top:269px;
   width:461px;
   height:170px;
 }
@@ -3627,7 +3627,7 @@
   border-width:0px;
   position:absolute;
   left:793px;
-  top:646px;
+  top:592px;
   width:71px;
   height:16px;
 }
@@ -3664,7 +3664,7 @@
   border-width:0px;
   position:absolute;
   left:322px;
-  top:819px;
+  top:765px;
   width:180px;
   height:35px;
   font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
@@ -3701,7 +3701,7 @@
   border-width:0px;
   position:absolute;
   left:793px;
-  top:700px;
+  top:646px;
   width:71px;
   height:16px;
 }
@@ -3732,7 +3732,7 @@
   border-width:0px;
   position:absolute;
   left:231px;
-  top:758px;
+  top:704px;
   width:62px;
   height:16px;
 }
@@ -3781,7 +3781,7 @@
   border-width:0px;
   position:absolute;
   left:322px;
-  top:752px;
+  top:698px;
   width:461px;
   height:35px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
@@ -3820,7 +3820,7 @@
   border-width:0px;
   position:absolute;
   left:757px;
-  top:762px;
+  top:708px;
   width:14px;
   height:12px;
   -webkit-transform:rotate(90deg);
@@ -3863,7 +3863,7 @@
   border-width:0px;
   position:absolute;
   left:771px;
-  top:761px;
+  top:707px;
   width:12px;
   height:12px;
   opacity:0;
@@ -5374,59 +5374,4 @@
   width:0px;
   visibility:hidden;
   word-wrap:break-word;
-}
-#u9983_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:62px;
-  height:16px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u9983 {
-  border-width:0px;
-  position:absolute;
-  left:231px;
-  top:219px;
-  width:62px;
-  height:16px;
-}
-#u9983_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:62px;
-  white-space:nowrap;
-}
-#u9984 {
-  border-width:0px;
-  position:absolute;
-  left:322px;
-  top:212px;
-  width:219px;
-  height:35px;
-}
-#u9984_input {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:219px;
-  height:35px;
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  text-decoration:none;
-  color:#000000;
-}
-#u9984_input:disabled {
-  color:grayText;
 }
