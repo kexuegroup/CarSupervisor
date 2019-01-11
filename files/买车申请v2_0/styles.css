@@ -7415,7 +7415,7 @@
   top:0px;
   width:100px;
   height:36px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7471,7 +7471,7 @@
   top:36px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7526,7 +7526,7 @@
   top:66px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7580,7 +7580,7 @@
   top:96px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7639,7 +7639,7 @@
   top:126px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7695,7 +7695,7 @@
   top:156px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7751,7 +7751,7 @@
   left:1299px;
   top:185px;
   width:679px;
-  height:686px;
+  height:711px;
 }
 #u2475_img {
   border-width:0px;
@@ -8172,7 +8172,7 @@
   left:0px;
   top:0px;
   width:101px;
-  height:104px;
+  height:129px;
 }
 #u2491 {
   border-width:0px;
@@ -8180,14 +8180,14 @@
   left:0px;
   top:292px;
   width:101px;
-  height:104px;
+  height:129px;
   text-align:center;
 }
 #u2491_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:40px;
+  top:52px;
   width:97px;
   word-wrap:break-word;
 }
@@ -8197,7 +8197,7 @@
   left:0px;
   top:0px;
   width:155px;
-  height:104px;
+  height:129px;
 }
 #u2492 {
   border-width:0px;
@@ -8205,13 +8205,13 @@
   left:101px;
   top:292px;
   width:155px;
-  height:104px;
+  height:129px;
 }
 #u2492_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:40px;
+  top:52px;
   width:151px;
   word-wrap:break-word;
 }
@@ -8221,7 +8221,7 @@
   left:0px;
   top:0px;
   width:273px;
-  height:104px;
+  height:129px;
 }
 #u2493 {
   border-width:0px;
@@ -8229,7 +8229,7 @@
   left:256px;
   top:292px;
   width:273px;
-  height:104px;
+  height:129px;
   text-align:left;
 }
 #u2493_text {
@@ -8246,7 +8246,7 @@
   left:0px;
   top:0px;
   width:150px;
-  height:104px;
+  height:129px;
 }
 #u2494 {
   border-width:0px;
@@ -8254,7 +8254,7 @@
   left:529px;
   top:292px;
   width:150px;
-  height:104px;
+  height:129px;
 }
 #u2494_text {
   border-width:0px;
@@ -8277,7 +8277,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:396px;
+  top:421px;
   width:101px;
   height:52px;
   text-align:center;
@@ -8302,7 +8302,7 @@
   border-width:0px;
   position:absolute;
   left:101px;
-  top:396px;
+  top:421px;
   width:155px;
   height:52px;
   font-size:14px;
@@ -8327,7 +8327,7 @@
   border-width:0px;
   position:absolute;
   left:256px;
-  top:396px;
+  top:421px;
   width:273px;
   height:52px;
   color:#FF0000;
@@ -8353,7 +8353,7 @@
   border-width:0px;
   position:absolute;
   left:529px;
-  top:396px;
+  top:421px;
   width:150px;
   height:52px;
   color:#FF0000;
@@ -8378,7 +8378,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:448px;
+  top:473px;
   width:101px;
   height:36px;
   text-align:center;
@@ -8403,7 +8403,7 @@
   border-width:0px;
   position:absolute;
   left:101px;
-  top:448px;
+  top:473px;
   width:155px;
   height:36px;
   font-size:14px;
@@ -8429,7 +8429,7 @@
   border-width:0px;
   position:absolute;
   left:256px;
-  top:448px;
+  top:473px;
   width:273px;
   height:36px;
   text-align:left;
@@ -8455,7 +8455,7 @@
   border-width:0px;
   position:absolute;
   left:529px;
-  top:448px;
+  top:473px;
   width:150px;
   height:36px;
 }
@@ -8480,7 +8480,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:484px;
+  top:509px;
   width:101px;
   height:34px;
   text-align:center;
@@ -8505,7 +8505,7 @@
   border-width:0px;
   position:absolute;
   left:101px;
-  top:484px;
+  top:509px;
   width:155px;
   height:34px;
   font-size:14px;
@@ -8531,7 +8531,7 @@
   border-width:0px;
   position:absolute;
   left:256px;
-  top:484px;
+  top:509px;
   width:273px;
   height:34px;
   text-align:left;
@@ -8557,7 +8557,7 @@
   border-width:0px;
   position:absolute;
   left:529px;
-  top:484px;
+  top:509px;
   width:150px;
   height:34px;
 }
@@ -8582,7 +8582,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:518px;
+  top:543px;
   width:101px;
   height:34px;
   text-align:center;
@@ -8607,7 +8607,7 @@
   border-width:0px;
   position:absolute;
   left:101px;
-  top:518px;
+  top:543px;
   width:155px;
   height:34px;
 }
@@ -8632,7 +8632,7 @@
   border-width:0px;
   position:absolute;
   left:256px;
-  top:518px;
+  top:543px;
   width:273px;
   height:34px;
   text-align:left;
@@ -8658,7 +8658,7 @@
   border-width:0px;
   position:absolute;
   left:529px;
-  top:518px;
+  top:543px;
   width:150px;
   height:34px;
 }
@@ -8683,7 +8683,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:552px;
+  top:577px;
   width:101px;
   height:68px;
   text-align:center;
@@ -8708,7 +8708,7 @@
   border-width:0px;
   position:absolute;
   left:101px;
-  top:552px;
+  top:577px;
   width:155px;
   height:68px;
 }
@@ -8733,7 +8733,7 @@
   border-width:0px;
   position:absolute;
   left:256px;
-  top:552px;
+  top:577px;
   width:273px;
   height:68px;
   text-align:left;
@@ -8759,7 +8759,7 @@
   border-width:0px;
   position:absolute;
   left:529px;
-  top:552px;
+  top:577px;
   width:150px;
   height:68px;
   color:#FF0000;
@@ -8785,7 +8785,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:620px;
+  top:645px;
   width:101px;
   height:68px;
   text-align:center;
@@ -8810,7 +8810,7 @@
   border-width:0px;
   position:absolute;
   left:101px;
-  top:620px;
+  top:645px;
   width:155px;
   height:68px;
   font-size:14px;
@@ -8836,7 +8836,7 @@
   border-width:0px;
   position:absolute;
   left:256px;
-  top:620px;
+  top:645px;
   width:273px;
   height:68px;
   text-align:left;
@@ -8862,7 +8862,7 @@
   border-width:0px;
   position:absolute;
   left:529px;
-  top:620px;
+  top:645px;
   width:150px;
   height:68px;
   color:#FF0000;
