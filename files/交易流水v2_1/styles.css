@@ -7065,7 +7065,7 @@
   top:0px;
   width:100px;
   height:36px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7121,7 +7121,7 @@
   top:36px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7176,7 +7176,7 @@
   top:66px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7230,7 +7230,7 @@
   top:96px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7289,7 +7289,7 @@
   top:126px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7345,7 +7345,7 @@
   top:156px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7755,6 +7755,7 @@
   top:163px;
   width:96px;
   height:45px;
+  font-size:14px;
 }
 #u406_text {
   border-width:0px;
@@ -7779,6 +7780,7 @@
   top:163px;
   width:333px;
   height:45px;
+  color:#1E1E1E;
   text-align:left;
 }
 #u407_text {
@@ -7879,7 +7881,7 @@
   top:208px;
   width:333px;
   height:29px;
-  color:#FF0000;
+  color:#1E1E1E;
   text-align:left;
 }
 #u411_text {
@@ -7910,9 +7912,10 @@
 #u412_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:6px;
-  width:146px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u413_img {
@@ -7960,9 +7963,10 @@
 #u414_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:2px;
-  width:92px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u415_img {
@@ -7985,9 +7989,10 @@
 #u415_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:2px;
-  width:329px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u416_img {
