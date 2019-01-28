@@ -9526,7 +9526,7 @@
   top:0px;
   width:100px;
   height:36px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -9582,7 +9582,7 @@
   top:36px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -9637,7 +9637,7 @@
   top:66px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -9691,7 +9691,7 @@
   top:96px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -9750,7 +9750,7 @@
   top:126px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -9806,7 +9806,7 @@
   top:156px;
   width:100px;
   height:30px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -10820,10 +10820,9 @@
 #u5288_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:6px;
+  width:140px;
   word-wrap:break-word;
 }
 #u5289_img {
@@ -10846,10 +10845,9 @@
 #u5289_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:6px;
+  width:269px;
   word-wrap:break-word;
 }
 #u5290_img {
